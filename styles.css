@@ -79,5 +79,7 @@ body {
     left: 39px;
     width: 30px;
     height: 40px;
+    border-radius: 60%;
+    transform: rotate(25deg);
     background-color: #000;
 }
